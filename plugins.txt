@@ -1,0 +1,10 @@
+deploy:latest
+codedeploy:latest
+scm-api:latest
+git-client:latest
+git:latest
+github-api:latest
+github-oauth:latest
+github:latest
+docker:latest
+docker-build-step:latest
