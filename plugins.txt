@@ -6,5 +6,7 @@ git:latest
 github-api:latest
 github-oauth:latest
 github:latest
-docker:latest
+durable-task:latest
+token-macro:latest
+docker-plugin:latest
 docker-build-step:latest
