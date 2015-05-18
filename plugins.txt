@@ -10,3 +10,4 @@ durable-task:latest
 token-macro:latest
 docker-plugin:latest
 docker-build-step:latest
+ansicolor:latest
