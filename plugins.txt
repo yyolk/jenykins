@@ -11,3 +11,4 @@ token-macro:latest
 docker-plugin:latest
 docker-build-step:latest
 ansicolor:latest
+git-parameter:latest
