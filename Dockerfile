@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM yyolk/jenkins:1.614
 
 USER jenkins
 COPY plugins.txt /plugins.txt
