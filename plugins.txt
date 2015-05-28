@@ -13,3 +13,4 @@ docker-build-step:latest
 ansicolor:latest
 git-parameter:latest
 rebuild:latest
+slack:latest
