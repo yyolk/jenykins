@@ -14,3 +14,5 @@ ansicolor:latest
 git-parameter:latest
 rebuild:latest
 slack:latest
+parameterized-trigger:latest
+gatling:latest
