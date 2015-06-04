@@ -1,4 +1,4 @@
-FROM yyolk/jenkins:1.616
+FROM yyolk/jenkins:latest
 
 USER root
 ENV DEBIAN_FRONTEND noninteractive
