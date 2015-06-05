@@ -2,7 +2,8 @@ FROM yyolk/jenkins:latest
 
 USER root
 ENV DEBIAN_FRONTEND noninteractive
-RUN apt-get update && apt-get install -y awscli
+RUN apt-get update && apt-get install -y python-pip
+RUN pip install awscli
 
 USER jenkins
 COPY plugins.txt /plugins.txt
