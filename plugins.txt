@@ -16,3 +16,4 @@ rebuild:latest
 slack:latest
 parameterized-trigger:latest
 gatling:latest
+keyboard-shortcuts-plugin:latest
