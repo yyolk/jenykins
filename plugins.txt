@@ -17,3 +17,9 @@ slack:latest
 parameterized-trigger:latest
 gatling:latest
 keyboard-shortcuts-plugin:latest
+aws-lambda:latest
+s3:latest
+ws-cleanup:latest
+compress-artifacts:latest
+newrelic-deployment-notifier:latest
+envinject:latest
