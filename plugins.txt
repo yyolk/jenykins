@@ -4,7 +4,7 @@ scm-api:latest
 git-client:latest
 git:latest
 github-api:latest
-github-oauth:latest
+github-oauth:0.20
 github:latest
 durable-task:latest
 token-macro:latest
