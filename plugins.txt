@@ -3,9 +3,9 @@ codedeploy:latest
 scm-api:latest
 git-client:latest
 git:latest
-github-api:latest
-github-oauth:0.20
-github:latest
+github-api:1.68
+github-oauth:latest
+github:1.11.3
 durable-task:latest
 token-macro:latest
 docker-plugin:latest
