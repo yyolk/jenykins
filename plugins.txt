@@ -23,3 +23,7 @@ ws-cleanup:latest
 compress-artifacts:latest
 newrelic-deployment-notifier:latest
 envinject:latest
+disk-usage:latest
+docker-commons:1.0
+copyartifact:1.21
+authentication-tokens:1.1
