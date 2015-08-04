@@ -3,9 +3,9 @@ codedeploy:latest
 scm-api:latest
 git-client:latest
 git:latest
-github-api:1.68
+github-api:latest
 github-oauth:latest
-github:1.11.3
+github:latest
 durable-task:latest
 token-macro:latest
 docker-plugin:latest
@@ -24,6 +24,6 @@ compress-artifacts:latest
 newrelic-deployment-notifier:latest
 envinject:latest
 disk-usage:latest
-docker-commons:1.0
-copyartifact:1.21
-authentication-tokens:1.1
+docker-commons:latest
+copyartifact:latest
+authentication-tokens:latest
