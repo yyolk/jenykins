@@ -27,3 +27,4 @@ disk-usage:latest
 docker-commons:latest
 copyartifact:latest
 authentication-tokens:latest
+jenkins-cloudformation-plugin:latest
