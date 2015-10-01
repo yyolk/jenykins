@@ -31,5 +31,6 @@ jenkins-cloudformation-plugin:latest
 dashboard-view:latest
 promoted-builds:latest
 release:latest
+async-http-client:latest
 dockerhub-notification:latest
 snsnotify:latest
