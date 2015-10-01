@@ -28,3 +28,7 @@ docker-commons:latest
 copyartifact:latest
 authentication-tokens:latest
 jenkins-cloudformation-plugin:latest
+dashboard-view:latest
+promoted-builds:latest
+release:latest
+dockerhub-notification:latest
