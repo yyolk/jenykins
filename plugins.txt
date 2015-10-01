@@ -2,6 +2,8 @@ deploy:latest
 codedeploy:latest
 scm-api:latest
 git-client:latest
+credentials:latest
+plain-credentials:latest
 git:latest
 github-api:latest
 github-oauth:latest
@@ -18,6 +20,7 @@ parameterized-trigger:latest
 gatling:latest
 keyboard-shortcuts-plugin:latest
 aws-lambda:latest
+aws-java-sdk:latest
 s3:latest
 ws-cleanup:latest
 compress-artifacts:latest
