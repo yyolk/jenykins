@@ -32,3 +32,4 @@ dashboard-view:latest
 promoted-builds:latest
 release:latest
 dockerhub-notification:latest
+snsnotify:latest
