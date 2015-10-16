@@ -19,8 +19,10 @@ slack:latest
 parameterized-trigger:latest
 gatling:latest
 keyboard-shortcuts-plugin:latest
-aws-lambda:latest
 aws-java-sdk:latest
+aws-credentials:latest
+aws-lambda:latest
+amazon-ecs
 s3:latest
 ws-cleanup:latest
 compress-artifacts:latest
