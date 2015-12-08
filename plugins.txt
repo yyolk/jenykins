@@ -37,3 +37,6 @@ release:latest
 async-http-client:latest
 dockerhub-notification:latest
 snsnotify:latest
+node-iterator-api:latest
+ec2:latest
+ec2-cloud-axis:latest
