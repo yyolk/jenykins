@@ -19,6 +19,7 @@ slack:latest
 parameterized-trigger:latest
 gatling:latest
 keyboard-shortcuts-plugin:latest
+jackson2-api:latest
 aws-java-sdk:latest
 aws-credentials:latest
 aws-lambda:latest
@@ -42,3 +43,12 @@ snsnotify:latest
 node-iterator-api:latest
 ec2:latest
 ec2-cloud-axis:latest
+mercurial:latest
+job-dsl:latest
+powershell:latest
+jobConfigHistory:latest
+audit-trail:latest
+bitbucket:latest
+bitbucket-oauth:latest
+nuget:latest
+msbuild:latest
