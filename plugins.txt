@@ -52,3 +52,4 @@ bitbucket:latest
 bitbucket-oauth:latest
 nuget:latest
 msbuild:latest
+packer:latest
