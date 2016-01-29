@@ -55,3 +55,4 @@ msbuild:latest
 packer:latest
 mailer:latest
 google-login:latest
+role-strategy:latest
