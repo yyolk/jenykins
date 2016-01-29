@@ -53,3 +53,5 @@ bitbucket-oauth:latest
 nuget:latest
 msbuild:latest
 packer:latest
+mailer:latest
+google-login:latest
