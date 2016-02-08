@@ -56,3 +56,5 @@ packer:latest
 mailer:latest
 google-login:latest
 role-strategy:latest
+workflow-step-api:latest
+htmlpublisher:latest
