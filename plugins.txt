@@ -1,6 +1,10 @@
 deploy:latest
 codedeploy:latest
 scm-api:latest
+ace-editor:latest
+jquery:latest
+jquery-detached:latest
+git-server:latest
 git-client:latest
 credentials:latest
 plain-credentials:latest
@@ -10,6 +14,8 @@ github-oauth:latest
 github:latest
 durable-task:latest
 token-macro:latest
+icon-shim:latest
+docker-commons:latest
 docker-plugin:latest
 docker-build-step:latest
 ansicolor:latest
@@ -57,4 +63,15 @@ mailer:latest
 google-login:latest
 role-strategy:latest
 workflow-step-api:latest
+workflow-job:latest
+workflow-basic-steps:latest
+workflow-support:latest
+workflow-cps:latest
+workflow-api:latest
+workflow-durable-task-step:latest
+workflow-cps:latest
+workflow-cps-global-lib:latest
+workflow-scm-step:latest
+workflow-aggregator:latest
+build-pipeline-plugin:latest
 htmlpublisher:latest
