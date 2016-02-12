@@ -68,6 +68,7 @@ workflow-basic-steps:latest
 workflow-support:latest
 workflow-cps:latest
 workflow-api:latest
+workflow-step-api:latest
 workflow-durable-task-step:latest
 workflow-cps:latest
 workflow-cps-global-lib:latest
@@ -75,3 +76,6 @@ workflow-scm-step:latest
 workflow-aggregator:latest
 build-pipeline-plugin:latest
 htmlpublisher:latest
+delivery-pipeline-plugin:latest
+docker-workflow:latest
+script-security:latest
