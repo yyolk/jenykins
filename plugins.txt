@@ -79,3 +79,5 @@ htmlpublisher:latest
 delivery-pipeline-plugin:latest
 docker-workflow:latest
 script-security:latest
+emotional-jenkins-plugin:latest
+docker-custom-build-environment:latest
