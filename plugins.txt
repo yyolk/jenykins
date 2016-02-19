@@ -88,3 +88,4 @@ urltrigger:latest
 fstrigger:latest
 scripttrigger:latest
 xtrigger:latest
+cloudbees-folder:latest
