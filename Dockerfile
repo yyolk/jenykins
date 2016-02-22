@@ -1,4 +1,4 @@
 FROM yyolk/jenkins-utils:latest
-
-COPY plugins.txt /plugins.txt
-RUN plugins.sh /plugins.txt
+MAINTAINER Joseph Yølk Chiocchi <joe@yolk.cc>
+COPY plugins.txt /usr/share/jenkins/plugins.txt
+RUN plugins.sh /usr/share/jenkins/plugins.txt
