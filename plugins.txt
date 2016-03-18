@@ -92,3 +92,4 @@ junit:latest
 analysis-core:latest
 ci-game:latest
 terraform:latest
+awseb-deployment-plugin
