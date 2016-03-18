@@ -89,3 +89,6 @@ fstrigger:latest
 scripttrigger:latest
 xtrigger:latest
 cloudbees-folder:latest
+junit:latest
+analysis-core:latest
+ci-game:latest
