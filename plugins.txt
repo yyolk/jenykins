@@ -7,6 +7,7 @@ jquery-detached:latest
 git-server:latest
 git-client:latest
 credentials:latest
+credentials-binding:latest
 plain-credentials:latest
 git:latest
 github-api:latest
@@ -68,9 +69,7 @@ workflow-basic-steps:latest
 workflow-support:latest
 workflow-cps:latest
 workflow-api:latest
-workflow-step-api:latest
 workflow-durable-task-step:latest
-workflow-cps:latest
 workflow-cps-global-lib:latest
 workflow-scm-step:latest
 workflow-aggregator:latest
