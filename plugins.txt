@@ -1,5 +1,5 @@
 ace-editor:latest
-amazon-ecs
+amazon-ecs:latest
 analysis-core:latest
 ansicolor:latest
 async-http-client:latest
@@ -8,7 +8,8 @@ authentication-tokens:latest
 aws-credentials:latest
 aws-java-sdk:latest
 aws-lambda:latest
-awseb-deployment-plugin
+awseb-deployment-plugin:latest
+bitbucket-build-status-notifier:latest
 bitbucket-oauth:latest
 bitbucket:latest
 build-pipeline-plugin:latest
