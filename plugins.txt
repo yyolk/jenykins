@@ -93,3 +93,10 @@ analysis-core:latest
 ci-game:latest
 terraform:latest
 awseb-deployment-plugin
+timestamper:latest
+build-monitor-plugin:latest
+claim:latest
+pipeline-rest-api:latest
+pipeline-stage-view:latest
+momentjs:latest
+handlebars:latest
